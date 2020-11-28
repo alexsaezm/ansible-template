@@ -1,0 +1,1 @@
+dummy_machine ansible_connection=local

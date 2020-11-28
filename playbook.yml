@@ -1,0 +1,6 @@
+#!/usr/bin/env ansible-playbook
+---
+- hosts: dummy_machine
+
+  tasks:
+          - ping:  
